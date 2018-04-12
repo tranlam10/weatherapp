@@ -1,0 +1,29 @@
+#background {
+  background-image: url("https://images.unsplash.com/photo-1464278533981-50106e6176b1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ca5f9140f345647ac9bc4c1597a56404&auto=format&fit=crop&w=600&q=60");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.box {
+  border-style: solid;
+}
+
+li {
+  list-style-type: none;
+}
+
+#city {
+  font-size: 100px;
+}
+
+#temp {
+  font-family: Helvetica;
+  font-size: 100px;
+}
+
+#forecast {
+  font-family: Helvetica;
+  font-size: 50px;
+}
